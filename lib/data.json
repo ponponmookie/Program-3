@@ -1,0 +1,11 @@
+{
+    "users":[
+        {
+            "id":1,
+            "fullname":"Chanankorn Jandaeng",
+            "email": "a@test.com",
+            "password": "1q2w3e4r",
+            "gender": "Male"
+        }
+    ]
+}
